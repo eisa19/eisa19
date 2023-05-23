@@ -85,7 +85,7 @@
    <img align="left" alt="Eisa Kawabe | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="mailto:kawada.eizo19@outlook.com">
-    <img align="left" alt="Eisa Kawabe | Microsoft" width="26px" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" />
+    <img align="left" alt="Eisa Kawabe | Microsoft" width="26px" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" />
   </a>
    <a href="https://github.com/eisa21">
     <img align="left" alt="Eisa Kawabe | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
